@@ -25,7 +25,12 @@ body{
   font-family:serif;
   color:rgb(2, 77, 19)
 }
-
+.Sub1{
+  font-size: 30px;
+  text-align: center;
+  font-style: normal;
+  font-family: monospace;
+}
 .contact-image{
     text-align:center;
 }
